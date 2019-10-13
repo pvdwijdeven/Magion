@@ -1,0 +1,19 @@
+Feature,Beschrijving
+Opp1e,Oppervlakte 1e verdieping
+Opp2e,Oppervlakte 2e verdieping
+Slaapkamers,Aantal slaapkamers
+OpenHaard,Aantal openhaarden
+OppGarage,Oppervlakte garage
+OppWoon,Woonoppervlak
+OppPerceel,Perceel Oppervlak
+OppOprit,Oppervlakte oprit
+OppBaksteen,Oppervlakte bakstenen
+VerkoopMaand,Maand van verkoop
+Conditie,Conditie van het huis (1-10)
+Kwaliteit,Kwaliteit van het huis (1-10)
+VerkoopOmst,Verkoop omstandigheden
+OppKelder,Oppervlakte kelder
+OppTerras,Oppervlakte terras
+Bouwjaar,Bouwjaar
+Verbouwjaar,Verbouwjaar
+VerkoopJaar,Jaar van verkoop
